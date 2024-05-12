@@ -1,0 +1,1 @@
+This is a CMSC 436 Final Project. It utilized Kotlin. The premise of the app is being able to select a time and date on a Calendar and Clock and sending yourself an email to schedule the meeting. It allows you to recieve the email directly to your gmail account even on your mobile device.
